@@ -10,7 +10,6 @@ import com.joi.api.catalog.dto.ProductDTO;
 import com.joi.api.catalog.entity.ProductFlat;
 import java.util.ArrayList;
 import java.util.Collection;
-import org.springframework.data.domain.Page;
 
 /**
  *
